@@ -50,9 +50,8 @@ Department-wise workforce distribution
 Salary expenditure analysis
 
 ## Technologies Used
-MySQL
-SQL
-MySQL Workbench
+1. SQL
+2. MySQL Workbench
 
 ## Learning Outcomes
 Through this project, I gained practical experience in:
